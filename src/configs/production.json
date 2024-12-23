@@ -1,0 +1,12 @@
+{
+    "env": "production",
+    "secretKey": "pI4iSWw8OUwvBIUPIr$WvPtGalNSRN@5",
+    "log": {
+        "format": "combined",
+        "dir": "../logs"
+    },
+    "cors": {
+        "origin": "api.paharpur.co.in",
+        "credentials": true
+    }
+}
